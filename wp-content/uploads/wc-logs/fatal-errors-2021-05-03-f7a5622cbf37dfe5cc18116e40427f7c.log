@@ -1,0 +1,6 @@
+2021-05-03T08:14:45+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\wordpress\wordpress/wp-content/themes/blank/inc/custom-header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wordpress\wp-content\themes\blank\functions.php on line 157
+
+2021-05-03T08:15:45+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\wordpress\wordpress/wp-content/themes/blank/inc/custom-header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wordpress\wp-content\themes\blank\functions.php on line 157
+
+2021-05-03T08:16:51+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\wordpress\wordpress/wp-content/themes/blank/inc/custom-header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wordpress\wp-content\themes\blank\functions.php on line 157
+
